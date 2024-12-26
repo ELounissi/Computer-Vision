@@ -4,7 +4,7 @@ This repository is made to contain code and data related to computer vision, I h
 
 ### 1- 360 One-Degree Rotations of Base E Image
 
-+ 📂 **E**: Contains the 360 rotated versions of the base image, each rotated by 1 degree. The images are named as `E_R000.png`, `E_R001.png`, `E_R002.png`, ..., `E_R359.png`.
+📂 **E**: Contains the 360 rotated versions of the base image, each rotated by 1 degree. The images are named as `E_R000.png`, `E_R001.png`, `E_R002.png`, ..., `E_R359.png`.
 
 ### Base Image
 
@@ -16,7 +16,7 @@ These images can be used for various purposes such as calculating and verifying 
 
 ### 2- Statistical image descriptors
 
-+ 📂 **Invariants**: Contains Python code used for the calculation of many statistical properties of images. The following properties are calculated:
+📂 **Invariants**: Contains Python code used for the calculation of many statistical properties of images. The following properties are calculated:
 
 - **Mean**: The average pixel intensity value of the image.
 - **Standard Deviation**: The spread of pixel intensity values in the image.
