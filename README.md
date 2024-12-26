@@ -4,14 +4,14 @@ This repository is made to contain code and data related to computer vision, I h
 
 ### 1- 360 One-Degree Rotations of Base E Image
 
-📂 **The folder E**: Contains the 360 rotated versions of the base image, each rotated by 1 degree. The images are named as `E_R000.png`, `E_R001.png`, `E_R002.png`, ..., `E_R359.png`.
+📂 **The folder E**: Contains the 360 rotated versions of a base image containing the letter "E", each rotated by 1 degree. The images are named as `E_R000.png`, `E_R001.png`, `E_R002.png`, ..., `E_R359.png`.
 
 
 The base image used for these rotations is shown below:
 
 ![Base E Image](/E/E_R000.png)
 
-These images can be used for various purposes such as calculating and verifying invariant descriptors that are supposed to be resistant to image rotations, or any project requiring a full rotation of a single image.
+These images can be used for various purposes such as calculating and verifying image descriptors that are supposed to be resistant or invariant to image rotations, or any project requiring a full rotation of a single image.
 
 ### 2- Statistical image descriptors
 
