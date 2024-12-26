@@ -3,7 +3,19 @@
 This repository is made to contain code and data related to computer vision, I hope they can be useful to students, developers and researchers.
 
 
-### 1- Statistical image descriptors
+### 1- 360 One-Degree Rotations of Base E Image
+
+📂 **The folder E**: Contains the 360 rotated versions of a base image containing the letter "E", each rotated by 1 degree. The images are named as `E_R000.png`, `E_R001.png`, `E_R002.png`, ..., `E_R359.png`.
+
+
+The base image used for these rotations is shown below:
+
+![Base E Image](/E/E_R000.png)
+
+These images can be used for various purposes such as calculating and verifying image descriptors that are supposed to be resistant or invariant to image rotations, or any project requiring a full rotation of a single image.
+
+
+### 2- Statistical image descriptors
 
 📂 **The folder Shape Statistics**: Contains Python code inside `shape_statistics.ipynb` used for the calculation of many statistical properties of images. The following properties are calculated:
 
@@ -38,16 +50,7 @@ This repository is made to contain code and data related to computer vision, I h
 
 - **Hu Moments**: A set of seven values derived from the image moments, used for image analysis and object recognition. These moments are invariant to image scaling, translation, and rotation.
 
-### 2- 360 One-Degree Rotations of Base E Image
 
-📂 **The folder E**: Contains the 360 rotated versions of a base image containing the letter "E", each rotated by 1 degree. The images are named as `E_R000.png`, `E_R001.png`, `E_R002.png`, ..., `E_R359.png`.
-
-
-The base image used for these rotations is shown below:
-
-![Base E Image](/E/E_R000.png)
-
-These images can be used for various purposes such as calculating and verifying image descriptors that are supposed to be resistant or invariant to image rotations, or any project requiring a full rotation of a single image.
 
 
 ---
