@@ -16,7 +16,7 @@ These images can be used for various purposes such as calculating and verifying 
 
 ### 2- Statistical image descriptors
 
-📂 **The folder Shape Statistics**: Contains Python code used for the calculation of many statistical properties of images. The following properties are calculated:
+📂 **The folder Shape Statistics**: Contains Python code inside `shape_statistics.ipynb` used for the calculation of many statistical properties of images. The following properties are calculated:
 
 - **Mean**: The average pixel intensity value of the image.
 - **Standard Deviation**: The spread of pixel intensity values in the image.
