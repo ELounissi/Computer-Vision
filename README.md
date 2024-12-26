@@ -6,7 +6,6 @@ This repository is made to contain code and data related to computer vision, I h
 
 📂 **The folder E**: Contains the 360 rotated versions of the base image, each rotated by 1 degree. The images are named as `E_R000.png`, `E_R001.png`, `E_R002.png`, ..., `E_R359.png`.
 
-### Base Image
 
 The base image used for these rotations is shown below:
 
