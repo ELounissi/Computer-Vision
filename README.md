@@ -1,6 +1,6 @@
 # Computer-Vision
 
-This repository is made to contain code and data related to computer vision, I hope they can be useful to researchers.
+This repository is made to contain code and data related to computer vision, I hope they can be useful to students, developers and researchers.
 
 
 ### 1- Statistical image descriptors
