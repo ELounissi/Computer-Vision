@@ -1,7 +1,9 @@
 # Computer-Vision
 
-This repository is made to contain code and data related to computer vision, I hope they can be useful to students, developers and researchers.
+This repository is made to contain code and data related to my computer vision courses or experiments, I hope they can be useful to students, developers and researchers.
 
+
+---
 
 ### 1- 360 One-Degree Rotations of Base E Image
 
@@ -14,6 +16,7 @@ The base image used for these rotations is shown below:
 
 These images can be used for various purposes such as calculating and verifying image descriptors that are supposed to be resistant or invariant to image rotations, or any project requiring a full rotation of a single image.
 
+---
 
 ### 2- Statistical image descriptors
 
